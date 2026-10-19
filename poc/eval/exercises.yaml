@@ -1,0 +1,54 @@
+# Jeu d'évaluation v0 — Cycle 3. À enrichir (cible Phase 0 : ≥ 100 exercices) et faire relire.
+# attendu : solution de référence (comparée par équivalence SymPy, pas par texte).
+# domaine : reels (défaut) ou positifs.
+- id: eq-01
+  degre: 9H
+  enonce: "Résous l'équation $3x + 5 = 2x - 7$."
+  attendu: "x = -12"
+- id: eq-02
+  degre: 9H
+  enonce: "Résous l'équation $4(x - 2) = 2x + 6$."
+  attendu: "x = 7"
+- id: eq-03
+  degre: 10H
+  enonce: "Résous l'équation $\\frac{x}{3} + 2 = \\frac{x}{2} - 1$."
+  attendu: "x = 18"
+- id: eq-04
+  degre: 10H
+  enonce: "Résous l'équation $5 - 2(x + 1) = 3x - 7$."
+  attendu: "x = 2"
+- id: red-01
+  degre: 9H
+  enonce: "Réduis l'expression $3(x + 2) - 2(x - 1)$."
+  attendu: "x + 8"
+- id: red-02
+  degre: 9H
+  enonce: "Développe et réduis $(2x - 3)(x + 4)$."
+  attendu: "2x^2 + 5x - 12"
+- id: fac-01
+  degre: 10H
+  enonce: "Factorise $x^2 - 9$."
+  attendu: "(x - 3)(x + 3)"
+- id: fac-02
+  degre: 10H
+  enonce: "Mets en évidence : $6x^2 + 9x$."
+  attendu: "3x(2x + 3)"
+- id: pb-01
+  degre: 9H
+  enonce: "Léa a 3 ans de plus que son frère. Ensemble, ils ont 27 ans. Quel âge a le frère ?"
+  attendu: "x = 12"
+  domaine: positifs
+- id: pb-02
+  degre: 10H
+  enonce: "Un abonnement de cinéma coûte 30 CHF puis 8 CHF par séance. Sans abonnement, une séance coûte 14 CHF. À partir de combien de séances les deux formules coûtent-elles le même prix ?"
+  attendu: "x = 5"
+  domaine: positifs
+- id: geo-01
+  degre: 10H
+  enonce: "Le triangle ABC est rectangle en C, avec AC = 6 cm et BC = 8 cm. Calcule la longueur AB."
+  attendu: "c = 10"
+  domaine: positifs
+- id: eq2-01
+  degre: 11H
+  enonce: "Résous l'équation $x^2 - 5x + 6 = 0$."
+  attendu: "S = {2; 3}"

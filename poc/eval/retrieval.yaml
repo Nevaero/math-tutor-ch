@@ -1,0 +1,51 @@
+# Évaluation de la recherche PER : énoncé réaliste -> objectif attendu.
+# Un résultat est pertinent s'il appartient à `objectif` ET contient un des `termes`
+# (dans le texte ou le sous-champ, sans tenir compte de la casse).
+- q: "Résous l'équation 4(x − 2) = 2x + 6"
+  degre: 10H
+  objectif: MSN 33
+  termes: [équation]
+- q: "Factorise x² − 9"
+  degre: 11H
+  objectif: MSN 33
+  termes: [factoris, identités remarquables]
+- q: "Développe et réduis (2x − 3)(x + 4)"
+  degre: 10H
+  objectif: MSN 33
+  termes: [polynôme, développ, réduction]
+- q: "Un triangle rectangle a des cathètes de 6 cm et 8 cm. Calcule la longueur de l'hypoténuse."
+  degre: 10H
+  objectif: MSN 34
+  termes: [Pythagore]
+- q: "Un pull coûte 80 CHF. Il est soldé à 25 %. Quel est son nouveau prix ?"
+  degre: 9H
+  objectif: MSN 33
+  termes: [pourcentage, proportionnalité]
+- q: "Écris 0,00045 en notation scientifique."
+  degre: 10H
+  objectif: MSN 32
+  termes: [notation scientifique]
+- q: "Un train parcourt 150 km en 1 h 30. Quelle est sa vitesse moyenne ?"
+  degre: 10H
+  objectif: MSN 33
+  termes: [vitesse moyenne]
+- q: "Les droites (BC) et (DE) sont parallèles. Calcule la longueur DE."
+  degre: 11H
+  objectif: MSN 31
+  termes: [Thalès]
+- q: "Écris 2⁵ · 2³ sous la forme d'une seule puissance."
+  degre: 9H
+  objectif: MSN 32
+  termes: [puissance]
+- q: "Un cube de fer de 2 cm d'arête a une masse volumique de 7,8 g/cm³. Quelle est sa masse ?"
+  degre: 11H
+  objectif: MSN 34
+  termes: [masse volumique]
+- q: "Représente graphiquement la fonction f(x) = 2x + 1."
+  degre: 10H
+  objectif: MSN 33
+  termes: [fonction, représentation graphique]
+- q: "Combien de temps faut-il pour remplir une piscine de 50 m³ avec un débit de 20 litres par minute ?"
+  degre: 11H
+  objectif: MSN 33
+  termes: [débit]

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+# Index dérivé du PER (© CIIP) : local uniquement tant que le droit de réutilisation n'est pas obtenu
+data/
+eval/results/
+# Photos de test : peuvent contenir des pages de manuels (droit d'auteur)
+eval/photos/*
+!eval/photos/README.md

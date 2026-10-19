@@ -1,0 +1,30 @@
+# Glossaire de vocabulaire scolaire — ébauche à faire valider par des enseignant·e·s GE/VD.
+# degres : degrés où le terme est utilisé ; eviter : formulations à ne pas employer.
+- terme: réduire
+  sens: regrouper les termes semblables d'une expression littérale
+  eviter: [simplifier]
+  degres: [9H, 10H, 11H]
+- terme: développer
+  sens: transformer un produit en somme (distributivité)
+  eviter: [distribuer, ouvrir les parenthèses]
+  degres: [9H, 10H, 11H]
+- terme: mettre en évidence
+  sens: factoriser par un facteur commun
+  eviter: []
+  degres: [9H, 10H, 11H]
+- terme: factoriser
+  sens: transformer une somme en produit (dont identités remarquables)
+  eviter: []
+  degres: [10H, 11H]
+- terme: membre
+  sens: chaque côté du signe égal d'une équation
+  eviter: [côté]
+  degres: [9H, 10H, 11H]
+- terme: ensemble des solutions
+  sens: noté S = {…} ; conclusion attendue d'une équation
+  eviter: [la réponse est]
+  degres: [9H, 10H, 11H]
+- terme: terme semblable
+  sens: termes ayant la même partie littérale
+  eviter: []
+  degres: [9H, 10H, 11H]
